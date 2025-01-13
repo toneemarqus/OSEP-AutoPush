@@ -79,6 +79,4 @@ Remember to:
 - Regularly verify your backups on GitHub
 - Monitor the synchronization logs for any issues
 
-## License
 
-This project is open source and available under the MIT License.
