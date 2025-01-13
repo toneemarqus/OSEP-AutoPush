@@ -27,6 +27,6 @@ When you put/modify any file inside the /var/www/html, it will be directly uploa
 2. Clone the new reposity and cd to it, copy all files to /var/www/html (including .git) files.
 3. Crete new file called run.sh with the code included in this repositry.
 4. Add new cronjob to kali as following:
-   '''
-   
-   '''
+   """
+   */1 * * * * /var/www/html/run.sh
+   """
